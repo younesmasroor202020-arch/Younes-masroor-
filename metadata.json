@@ -1,0 +1,6 @@
+{
+  "name": "جذور في أرض الروضة",
+  "description": "تطبيق سينمائي تفاعلي لسيناريو جذور في أرض الروضة - شبوة، مع تحويل النص إلى صوت، وتوليد الموسيقى والألحان الشبوانية، وتوليد وتعديل المشاهد البصرية بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
